@@ -1,6 +1,6 @@
-package com.github.com.davidkwan.kafka;
+package com.github.com.davidkwan.twitter;
 
-import com.github.com.davidkwan.twitter.TwitterClient;
+import com.github.com.davidkwan.kafka.Producer;
 import com.google.common.collect.Lists;
 import com.twitter.hbc.core.Client;
 import org.apache.kafka.clients.producer.Callback;
